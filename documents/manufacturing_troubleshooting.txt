@@ -1,0 +1,132 @@
+MANUFACTURING DEFECT TROUBLESHOOTING GUIDE
+
+Document Type: Manufacturing Quality and Troubleshooting Guide
+Purpose: Provide basic guidance for identifying and handling manufacturing defects.
+
+
+1. NO DEFECT
+
+Description:
+The sensor readings are within the expected operating range and no significant defect pattern is detected.
+
+Recommended Action:
+Continue normal production and perform routine quality monitoring.
+
+
+2. MINOR DEFECT
+
+Description:
+A minor defect indicates a small deviation from normal manufacturing conditions. The component may require inspection before continuing production.
+
+Common Indicators:
+- Slight increase in vibration
+- Small dimensional deviation
+- Small increase in surface roughness
+- Minor temperature deviation
+
+Recommended Action:
+- Inspect the affected component.
+- Check machine vibration.
+- Verify dimensional measurements.
+- Monitor the next production cycles.
+- Perform routine maintenance if the abnormal condition continues.
+
+
+3. MODERATE DEFECT
+
+Description:
+A moderate defect indicates a noticeable deviation from normal manufacturing conditions and requires engineering attention.
+
+Common Indicators:
+- Increased vibration
+- Noticeable dimensional deviation
+- Increased surface roughness
+- Significant temperature deviation
+- Increased material stress
+
+Recommended Action:
+- Inspect the component immediately.
+- Check machine alignment and operating conditions.
+- Verify dimensional measurements.
+- Review vibration and temperature readings.
+- Consider temporarily stopping the affected production process.
+- Perform maintenance before restarting if the abnormal condition persists.
+
+
+4. CRITICAL DEFECT
+
+Description:
+A critical defect indicates a severe abnormal condition that may affect component quality or manufacturing safety.
+
+Common Indicators:
+- Very high vibration
+- Large dimensional deviation
+- High temperature deviation
+- High material stress
+- Severe surface roughness
+
+Recommended Action:
+- Stop the affected production process.
+- Isolate the affected component or batch.
+- Perform detailed engineering inspection.
+- Check machine condition and alignment.
+- Investigate the root cause.
+- Perform corrective maintenance before restarting production.
+- Verify component quality after corrective action.
+
+
+5. VIBRATION TROUBLESHOOTING
+
+High vibration may indicate machine imbalance, misalignment, loose components, bearing problems, or abnormal operating conditions.
+
+Recommended Action:
+- Inspect machine alignment.
+- Check mechanical connections.
+- Inspect bearings and rotating components.
+- Verify operating conditions.
+- Monitor vibration after corrective maintenance.
+
+
+6. TEMPERATURE TROUBLESHOOTING
+
+Abnormal temperature deviation may indicate excessive friction, cooling problems, abnormal machine operation, or process instability.
+
+Recommended Action:
+- Check the cooling system.
+- Inspect machine operating conditions.
+- Check for excessive friction.
+- Monitor temperature during subsequent production cycles.
+
+
+7. DIMENSIONAL DEVIATION
+
+Dimensional deviation indicates that a manufactured component differs from the expected dimensional specification.
+
+Recommended Action:
+- Recheck the measurement.
+- Inspect machine calibration.
+- Check tooling condition.
+- Verify machine alignment.
+- Perform additional quality inspection.
+
+
+8. SURFACE ROUGHNESS
+
+Increased surface roughness may indicate tooling problems, machine vibration, incorrect machining conditions, or tool wear.
+
+Recommended Action:
+- Inspect the cutting tool or machining tool.
+- Check machine vibration.
+- Verify machining parameters.
+- Inspect the component surface again after corrective action.
+
+
+9. MATERIAL STRESS
+
+High material stress may indicate excessive loading, manufacturing process instability, or material-related problems.
+
+Recommended Action:
+- Review manufacturing process conditions.
+- Inspect the affected component.
+- Check material specifications.
+- Perform engineering analysis if the abnormal stress continues.

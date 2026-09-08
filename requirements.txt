@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+joblib
+sentence-transformers
+chromadb
+matplotlib
+streamlit
+requests
