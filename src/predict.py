@@ -3,11 +3,11 @@ import joblib
 
 
 # -----------------------------
-# Load Trained Model
+# Load Final SVM Model
 # -----------------------------
 
 model = joblib.load(
-    "models/random_forest_defect_model.pkl"
+    "models/svm_defect_model.pkl"
 )
 
 
@@ -30,7 +30,9 @@ new_sensor_data = pd.DataFrame([
 # Predict Defect Category
 # -----------------------------
 
-prediction = model.predict(new_sensor_data)
+prediction = model.predict(
+    new_sensor_data
+)
 
 predicted_class = prediction[0]
 
@@ -39,7 +41,9 @@ predicted_class = prediction[0]
 # Prediction Probabilities
 # -----------------------------
 
-probabilities = model.predict_proba(new_sensor_data)
+probabilities = model.predict_proba(
+    new_sensor_data
+)
 
 class_names = model.classes_
 
@@ -66,5 +70,6 @@ for class_name, probability in zip(
     probabilities[0]
 ):
     print(
-        f"{class_name}: {probability * 100:.2f}%"
+        f"{class_name}: "
+        f"{probability * 100:.2f}%"
     )
